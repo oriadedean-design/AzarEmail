@@ -1,0 +1,6 @@
+{
+  "name": "AzarFaith Email Studio — Brand & Compliance Template Builder",
+  "description": "Internal email marketing template builder and CASL/NDPA compliance architect for AzarFaith, generating responsive HTML templates aligned with the AzarFaith Visual Identity Guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
